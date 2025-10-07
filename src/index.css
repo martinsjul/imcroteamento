@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.label-branco {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 0.875rem;
+  color: #ffffff;
+}
